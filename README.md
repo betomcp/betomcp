@@ -1,7 +1,7 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betomcp)
+
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">A full-stack developer from São Paulo.</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betomcp)
 
 - 🔭 I’m currently working on **LiveIn Shop**
 
