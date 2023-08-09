@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">A full-stack developer from São Paulo.</h3>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betomcp)
+
 - 🔭 I’m currently working on **LiveIn Shop**
 
 - 📫 How to reach me **beto.porto2000@gmail.com**
@@ -30,5 +32,3 @@
     <a style="border-right: 15px;" href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
     <a style="border-right: 15px;" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betomcp)
